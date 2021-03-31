@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="start">Start</string>
+</resources>
